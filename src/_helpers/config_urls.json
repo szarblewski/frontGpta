@@ -1,0 +1,7 @@
+{
+    "apiUrl": "http://localhost:3100",
+    "urlareatb": "/sys/areatb",
+    "urltabela": "/sys/tabela",
+    "urlcampo": "/sys/campo",
+    "urlvalor": "/sys/valor"
+}
